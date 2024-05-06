@@ -10,4 +10,3 @@ Prerequisite(s):
 
 Instructor: Usman Alim  
 TA: Fatemeh P.  
-Overall grade: A+
